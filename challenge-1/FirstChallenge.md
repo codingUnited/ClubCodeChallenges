@@ -1,4 +1,4 @@
-# 🗓️ Coding Club Challenge Series: First 10 Projects
+# 🗓️ Coding Club Challenge Series
 
 ## 🟦 Challenge 1: GitHub Repo Setup & “Ready to Code” Page
 
