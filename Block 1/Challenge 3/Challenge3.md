@@ -100,3 +100,8 @@ These test cases are only for participants attempting Hard or Leet levels. They 
 - Complex combinations
 
 📂 Step 5 tests provided in your earlier upload or shared via internal drop.  [Hard / Leet Test Zip](http://www.json.org/JSON_checker/test.zip)
+
+
+#### Reference:
+
+This coding challenge is thanx to Coding Challenges: https://codingchallenges.fyi/challenges/challenge-json-parser
