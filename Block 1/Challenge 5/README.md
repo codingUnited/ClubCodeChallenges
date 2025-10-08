@@ -25,9 +25,6 @@ Keep the original functionality (feature parity), but produce a modern, maintain
 
 - Legacy repo (C++11) with:
   - Source files (buggy)
-  - A short “mystery spec” (1–2 paragraphs describing the app’s supposed purpose)
-  - A handful of sample input files / sample CLI invocations
-- Known Issues List (intentionally incomplete)
 
 Note: Building/running the C++11 version may be annoying—by design. That’s part of the challenge.
 
@@ -38,7 +35,7 @@ Note: Building/running the C++11 version may be annoying—by design. That’s p
 ### Functional
 
 - Maintain feature parity with the legacy behavior (as discovered by tests you write and by exploring the app).
-- For CLI apps: expose the same core commands/flags; for web ports: preserve equivalent routes/inputs.
+- For CLI apps: expose the same core commands/flags.
 - Correct the observable wrong behaviors (logic errors, edge cases).
 
 ### Non-Functional
